@@ -69,3 +69,4 @@ We’re really rather friendly! Here are the best places to talk about the proje
 ## License
 
 Code is under the [BSD 2 Clause (NetBSD) license](LICENSE).
+#tea-homebrew
